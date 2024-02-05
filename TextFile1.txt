@@ -1,8 +1,18 @@
 This is text file 1. 
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 Small edit in File 1. Hello lecture
 =======
 Small edit in File 1. Hello lecture
 
 >>>>>>> Stashed changes
+=======
+Small edit in File 1. Hello lecture
+
+(Branch1, Student1, Tom)
+
+Hello everyone, working in Branch 1, small edits...
+
+Add user login
+>>>>>>> Branch1
