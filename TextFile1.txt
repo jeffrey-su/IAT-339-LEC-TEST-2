@@ -1,7 +1,3 @@
 This is text file 1. 
 
 Small edit in File 1. Hello lecture
-
-(Branch2, Student2, Mary)
-
-Working in Branch 2, adding header to main page
